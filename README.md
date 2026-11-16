@@ -10,7 +10,7 @@ Powerful, uninspected frontier AI can turn against the ruler in charge—via dom
 
 ## What’s in the Repo
 
-* `autocrat_survival.py`: Streamlit app with regime presets (entrenched autocracy, nascent autocracy, established democracy, nascent democracy), four challenger modes, interactive selectorate/AI sliders, $2 \times 2$ payoff matrix, four-channel risk breakdown, and opaqueness sensitivity curve.
+* `ouster.py`: Streamlit app with regime presets (entrenched autocracy, nascent autocracy, established democracy, nascent democracy), four challenger modes, interactive selectorate/AI sliders, $2 \times 2$ payoff matrix, four-channel risk breakdown, and opaqueness sensitivity curve.
 * `ouster_by_capture_brief.md`: Full policy brief, selectorate primer, discussion of China and failure modes, scope caveats, and technical appendix.
 
 ## Quick Start
