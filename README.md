@@ -6,7 +6,7 @@ An interactive Streamlit app and accompanying policy brief examining whether joi
 
 ## Core Idea
 
-Powerful, uninspected frontier AI can turn against the ruler in charge—via domestic insiders, foreign rivals, mass mobilization, or autonomous AI displacement. Adapting Bueno de Mesquita et al.’s selectorate framework (and the coalition survival logic from Chaudhri, 2014), this model pairs an incumbent’s choice between pacing/transparency ($\tau = 1$) and covert racing ($\tau = 0$) against four challenger channels in a $2 \times 2$ strategic-form setup and multi-channel hazard structure.
+Powerful, uninspected frontier AI can turn against the ruler in charge—via domestic insiders, foreign rivals, mass mobilization, or autonomous AI displacement. Adapting Bueno de Mesquita et al.’s selectorate framework, this model pairs an incumbent’s choice between pacing/transparency ($\tau = 1$) and covert racing ($\tau = 0$) against four challenger channels in a $2 \times 2$ strategic-form setup and multi-channel hazard structure.
 
 ## What’s in the Repo
 
